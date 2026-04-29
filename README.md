@@ -2,7 +2,7 @@
 
 🚀**Junior Software Enginner |
 Javascript**  
-![alt text](image-15.png) **BRAZIL**
+🇧🇷 **BRAZIL**
 
 **Desenvolvo interfaces web de alta performance e sistemas web modernos, com foco em experiência do usuário, performance e código limpo**.
 
